@@ -1,1 +1,2 @@
 # Weather-Forecast-Using-NeuralProphet-and-Arduino-Uno
+This demonstrates weather forecasting using the NeuralProphet (a neural-network-based Time-Series model) and Python. The Proteus Design Suite 8.13 CAD Software was used to design and simulate an electronic circuit diagram which represents the weather station that collects the real-time temperature, humidity, and date data from the DHT11 and DS1307 RTC modules and sends it to the Python app using the Serial Com port. The transmitted data is saved into a CSV file to train the forecasting model for future predictions.
