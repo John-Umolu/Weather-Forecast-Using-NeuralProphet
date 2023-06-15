@@ -4,4 +4,6 @@ This demonstrates weather forecasting using the NeuralProphet (a neural-network-
 The image below shows the electronic circuit simulation using the Arduino Uno board and sensor modules. <br>
 ![Picture2](https://github.com/John-Umolu/Weather-Forecast-Using-NeuralProphet-and-Arduino-Uno/assets/106328663/67cdb9fd-0624-4b0b-b8d0-89972fab1d39) <br>
 The image below shows the developed Python application. <br>
-![Picture3](https://github.com/John-Umolu/Weather-Forecast-Using-NeuralProphet-and-Arduino-Uno/assets/106328663/df8f812f-3603-496e-94fe-8b6539bd7c42)
+![Picture3](https://github.com/John-Umolu/Weather-Forecast-Using-NeuralProphet-and-Arduino-Uno/assets/106328663/df8f812f-3603-496e-94fe-8b6539bd7c42) <br>
+The below link is the video simulation: <br>
+https://youtu.be/EWSfxlnCa0s
